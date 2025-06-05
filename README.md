@@ -7,7 +7,7 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 **"How do members and casual riders use Divvy bikes differently, and what are the key implications for Divvy BikeShare's business strategy?"**
 
 ## 📂 Data Source & Tools
-* **Data Source:** Divvy BikeShare trip data (CSV files for a full year, e.g., January 2024 - December 2024). Link:<https:•	<a href="•	•	<a href="https://divvy-tripdata.s3.amazonaws.com/index.html" target="_blank">Visit Raw Data Site</a>
+* **Data Source:** Divvy BikeShare trip data (CSV files for a full year, e.g., January 2024 - December 2024).  <https: <a href=" <a href="https://divvy-tripdata.s3.amazonaws.com/index.html" target="_blank"> Raw Data </a>
 * **Tools Used:**
     * **Microsoft Excel:** For data cleaning, transformation, complex pivot table analysis, and advanced charting.
     * **Microsoft Word:** For the comprehensive project report detailing methodology and findings.
