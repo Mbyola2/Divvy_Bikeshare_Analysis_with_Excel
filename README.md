@@ -7,21 +7,23 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 **"How do members and casual riders use Divvy bikes differently, and what are the key implications for Divvy BikeShare's business strategy?"**
 
 ## 📂 Data Source & Tools
-* **Data Source:** Divvy BikeShare trip data (CSV files for a full year, e.g., January 2024 - December 2024).  <https: <a href=" <a href="https://divvy-tripdata.s3.amazonaws.com/index.html" target="_blank"> Raw Data </a>
+* **Data Source:** Divvy BikeShare trip data (CSV files for a full year, e.g., January 2024 - December 2024).  
 * **Tools Used:**
+     * **PowerPoint: For report summary and visuals.  
     * **Microsoft Excel:** For data cleaning, transformation, complex pivot table analysis, and advanced charting.
-    * **Microsoft Word:** For the comprehensive project report detailing methodology and findings.
-    * **Google Cloud Storage:** Utilized for hosting the large Excel workbook containing raw data and detailed analysis (due to GitHub file size limits).
+    * **Microsoft Word pdf:** For the comprehensive project report detailing methodology and findings.
+    * **Google Cloud Storage:** Utilized for hosting the large Excel workbook containing detailed analysis (due to GitHub file size limits).
 
 ---
 
 ## 💡 Executive Summary & Key Insights
 
 
-1.  **Members Drive Volume, Casuals Drive Seasonal Peaks:**
-    * Members consistently account for **~63%** of all rides, forming the core user base.
-    * Casual riders demonstrate extreme seasonality, with usage **surging dramatically in summer months (e.g., July/August)** and dropping significantly in winter.
-   
+1.  **Who takes the most frequent trips?:**
+    * Members consistently account for **~63%** of all rides, forming the core user base  3,708,910 rides.
+    * Casual riders contributed 2,151,658 rides (approximately 37%).
+    * •	<a href="https://drive.google.com/file/d/1PS26uOX9xsYmNv5CgQmAWkMcRkIz2gUs/view?usp=sharing" target="_blank">IMAGE</a>
+      
 
 2.  **Distinct Daily Usage Patterns:**
     * **Members** show high, consistent ridership during **weekdays**, indicating commuting or routine use.
